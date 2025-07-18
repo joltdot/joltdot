@@ -8,7 +8,7 @@
 - 📚 Soy tu ITAMita tercersemestrino de confianza :)
 - 🤖 ¡Me interesan mucho los temas de aprendizaje de máquina y ciencia de datos!
 - 👁️ Me gustaría impactar positivamente en el mundo con la intersección de las ciencias y humanidades
-- 🔎 Busco mentores que me puedan guiar por los diferentes caminos académicos y profesionales de las ciencias aplicadas
+- 🔎 Estoy en búsqueda de ayuda para encontrar mi vector director en el mundo del STEM
 - 🌎 Si frecuentas la CDMX, ¡acéptame un café y platiquemos!
 
 <!--
