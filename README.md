@@ -2,7 +2,7 @@
 - 📚 I'm a third semester undergraduate student currently @ ITAM
 - 🤖 ML, Data Science & Web Development are my cup of tea!
 - 👁️ I'm looking to make a positive impact on the world with the wonders of STEM and a strong arts & humanities background
-- 🔎 I'm looking for guidance through the academic & professional routes that CS offers
+- 🔎 I'm looking for guidance through the academic & professional routes that CS & Maths offer
 - 🌎 Ask me about the economic & political state of the world (hehe)
 ## ¡Hola y bienvenido! 🇪🇸🇲🇽🇨🇴🇵🇪🇨🇱🇦🇷
 - 📚 Soy tu ITAMita tercersemestrino de confianza :)
