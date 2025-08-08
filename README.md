@@ -1,12 +1,12 @@
 ## Hi! Thanks for stopping by. 🇬🇧🇺🇸🇨🇦
 - 📚 I'm a third semester undergraduate student currently @ ITAM
-- 🤖 Currently interested in everything ML & Data Science
+- 🤖 ML, Data Science & Web Development are my cup of tea!
 - 👁️ I'm looking to make a positive impact on the world with the wonders of STEM and a strong arts & humanities background
 - 🔎 I'm looking for guidance through the academic & professional routes that CS offers
 - 🌎 Ask me about the economic & political state of the world (hehe)
 ## ¡Hola y bienvenido! 🇪🇸🇲🇽🇨🇴🇵🇪🇨🇱🇦🇷
 - 📚 Soy tu ITAMita tercersemestrino de confianza :)
-- 🤖 ¡Me interesan mucho los temas de aprendizaje de máquina y ciencia de datos!
+- 🤖 Mis principales intereses son los temas de aprendizaje de máquina, ciencia de datos y desarrollo web
 - 👁️ Me gustaría impactar positivamente en el mundo con la intersección de las ciencias y humanidades
 - 🔎 Estoy en búsqueda de ayuda para encontrar mi vector director en el mundo del STEM
 - 🌎 Si frecuentas la CDMX, ¡acéptame un café y platiquemos!
