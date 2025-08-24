@@ -11,7 +11,7 @@
 - 🔎 Estoy en búsqueda de ayuda para encontrar mi vector director en el mundo del STEM
 - 🌎 Si frecuentas la CDMX, ¡acéptame un café y platiquemos!
 
-📪 Contacto: juanpa.montiel05@gmail.com
+📪 Contacto: hello@funky.engineer
 
 <!--
 **joltdot/joltdot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
