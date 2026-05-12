@@ -1,5 +1,5 @@
 ## Hi! Thanks for stopping by. 🇬🇧🇺🇸🇨🇦
-- 📚 I'm a third semester undergraduate student currently @ ITAM
+- 📚 I'm a fourth semester undergraduate student currently @ ITAM
 - 🤖 ML, Data Science & Web Development are my cup of tea!
 - 👁️ I'm looking to make a positive impact on the world with the wonders of STEM and a strong arts & humanities background
 - 🔎 I'm looking for guidance through the academic & professional routes that CS & Maths offer
